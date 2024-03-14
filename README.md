@@ -1,4 +1,4 @@
-### Hi I'm Nivethikaa 👋
+# Hi I'm Nivethikaa 👋
 
 # 💫 About Me:
 🇸🇬 Based in Singapore <br>👩🏽‍🎓 Year 3 Information Systems Student Majoring in Business Analytics at SMU <br>👩🏽‍💻 Currently working on a Clinic Appointment Management project for a module
