@@ -1,7 +1,7 @@
 # Hi I'm Nivethikaa 👋
 
 # 💫 About Me:
-🇸🇬 Based in Singapore <br>👩🏽‍🎓 Year 3 Information Systems Student Majoring in Business Analytics at SMU <br>👩🏽‍💻 Currently working on a telegram bot 
+🇸🇬 Based in Singapore <br>👩🏽‍🎓 Year 4 Information Systems Student Majoring in Business Analytics at SMU <br>👩🏽‍💻 Currently working on a telegram bot 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nivethikaavijay) 
